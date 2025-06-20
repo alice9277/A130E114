@@ -1,2 +1,2 @@
 def getTeachers():
-    print("There are total 77 teachers")
+    print("There are total 50 teachers")
