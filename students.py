@@ -1,2 +1,2 @@
 def getStudents():
-    print("There are total 3000 students")
+    print("There are total 2500 students")
